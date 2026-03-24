@@ -3,4 +3,7 @@
     <Project Path="ConsoleProject/ConsoleProject.csproj" />
     <Project Path="WebProject/WebProject.csproj" />
   </Folder>
+  <Folder Name="/BAB_03/">
+    <Project Path="ASPNETCoreRazorPageBasic/ASPNETCoreRazorPageBasic.csproj" Id="490afdba-56ce-47da-b026-bc0efb25aeaa" />
+  </Folder>
 </Solution>
